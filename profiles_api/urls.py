@@ -1,4 +1,4 @@
-from dj_database_url import path
+from django.urls import path
 from profiles_api import views
 
 urlpatterns = [
